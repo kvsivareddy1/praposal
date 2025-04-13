@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZqb2Z3YnI3b283ZWQzcGttanF6YWlnNWNkMms0YWZhYWRlcGV2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gkFMKf6KtUlerKf0jg/giphy.gif");
+  font-family: "Arial", sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+.header_text {
+  font-size: 3em;
+  color: #d32f2f;
+}
+
+.gif_container img {
+  width: 50%;
+  max-width: 500px;
+  height: auto;
+}
