@@ -22,3 +22,8 @@ body {
   max-width: 500px;
   height: auto;
 }
+.loveYou {
+  color: red;
+  font-size: 35px;
+  font-weight: bold;
+}
